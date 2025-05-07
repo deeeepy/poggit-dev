@@ -1,5 +1,6 @@
 ![poggit-icon](https://github.com/user-attachments/assets/50006405-7390-4737-94bc-2e6efaaaa780)
-![python-logo](https://www.python.org/static/community_logos/python-logo-master-v3-TM.png)
+![Python](https://github.com/user-attachments/assets/3948c9ed-d788-4616-a3a0-6d75612a9c16)
+
 # poggit python API
 a python wrapper for poggit dev https://poggit.pmmp.io/ci/recent search by name and retrieve details such as the plugin's name, author, type, and link, without captchas!
 
