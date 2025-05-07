@@ -1,4 +1,6 @@
-# poggit-dev
+![poggit-icon](https://github.com/user-attachments/assets/50006405-7390-4737-94bc-2e6efaaaa780)
+
+# poggit python API
 a python wrapper for poggit dev https://poggit.pmmp.io/ci/recent search by name and retrieve details such as the plugin's name, author, type, and link, without captchas!
 
 ## requirements
